@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "fried Rice",
+        "no of plates": 66,
+        "price": 70
+    },
+    {
+        "id": 2,
+        "name": "Paneer Tikka",
+        "no of plates": 25,
+        "price": 180
+    }
+]
